@@ -1,0 +1,128 @@
+[
+    {
+        "customerNumber": 103,
+        "checkNumber": "HQ336336",
+        "paymentDate": "2004-10-19",
+        "amount": 6066.78
+    },
+    {
+        "customerNumber": 103,
+        "checkNumber": "JM555205",
+        "paymentDate": "2003-06-05",
+        "amount": 14571.44
+    },
+    {
+        "customerNumber": 103,
+        "checkNumber": "OM314933",
+        "paymentDate": "2004-12-18",
+        "amount": 1676.14
+    },
+    {
+        "customerNumber": 112,
+        "checkNumber": "BO864823",
+        "paymentDate": "2004-12-17",
+        "amount": 14191.12
+    },
+    {
+        "customerNumber": 112,
+        "checkNumber": "HQ55022",
+        "paymentDate": "2003-06-06",
+        "amount": 32641.98
+    },
+    {
+        "customerNumber": 112,
+        "checkNumber": "ND748579",
+        "paymentDate": "2004-08-20",
+        "amount": 33347.88
+    },
+    {
+        "customerNumber": 114,
+        "checkNumber": "GG31455",
+        "paymentDate": "2003-05-20",
+        "amount": 45864.03
+    },
+    {
+        "customerNumber": 114,
+        "checkNumber": "MA765515",
+        "paymentDate": "2004-12-15",
+        "amount": 82261.22
+    },
+    {
+        "customerNumber": 114,
+        "checkNumber": "NP603840",
+        "paymentDate": "2003-05-31",
+        "amount": 7565.08
+    },
+    {
+        "customerNumber": 114,
+        "checkNumber": "NR27552",
+        "paymentDate": "2004-03-10",
+        "amount": 44894.74
+    },
+    {
+        "customerNumber": 119,
+        "checkNumber": "DB933704",
+        "paymentDate": "2004-11-14",
+        "amount": 19501.82
+    },
+    {
+        "customerNumber": 119,
+        "checkNumber": "LN373447",
+        "paymentDate": "2004-08-08",
+        "amount": 47924.19
+    },
+    {
+        "customerNumber": 119,
+        "checkNumber": "NG94694",
+        "paymentDate": "2005-02-22",
+        "amount": 49523.67
+    },
+    {
+        "customerNumber": 121,
+        "checkNumber": "DB889831",
+        "paymentDate": "2003-02-16",
+        "amount": 50218.95
+    },
+    {
+        "customerNumber": 121,
+        "checkNumber": "FD317790",
+        "paymentDate": "2003-10-28",
+        "amount": 1491.38
+    },
+    {
+        "customerNumber": 121,
+        "checkNumber": "KI831359",
+        "paymentDate": "2004-11-04",
+        "amount": 17876.32
+    },
+    {
+        "customerNumber": 121,
+        "checkNumber": "MA302151",
+        "paymentDate": "2004-11-28",
+        "amount": 34638.14
+    },
+    {
+        "customerNumber": 124,
+        "checkNumber": "AE215433",
+        "paymentDate": "2005-03-05",
+        "amount": 101244.59
+    },
+    {
+        "customerNumber": 124,
+        "checkNumber": "BG255406",
+        "paymentDate": "2004-08-28",
+        "amount": 85410.87
+    },
+    {
+        "customerNumber": 124,
+        "checkNumber": "CQ287967",
+        "paymentDate": "2003-04-11",
+        "amount": 11044.3
+    },
+    {
+        "customerNumber": 124,
+        "checkNumber": "ET64396",
+        "paymentDate": "2005-04-16",
+        "amount": 83598.04
+    }
+]

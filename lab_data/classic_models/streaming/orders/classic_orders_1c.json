@@ -1,0 +1,10 @@
+{"orderNumber": 10100, "customerNumber": 119, "employeeNumber": 1501, "productCode": "S10_1949", "productName": "1952 Alpine Renault 1300", "quantityOrdered": 2, "priceEach": 53.59, "orderDate": "2023-05-01"}
+{"orderNumber": 10101, "customerNumber": 103, "employeeNumber": 1504, "productCode": "S10_1949", "productName": "1952 Alpine Renault 1300", "quantityOrdered": 6, "priceEach": 146.14, "orderDate": "2023-05-02"}
+{"orderNumber": 10102, "customerNumber": 119, "employeeNumber": 1504, "productCode": "S10_1678", "productName": "1969 Harley Davidson Ultimate Chopper", "quantityOrdered": 9, "priceEach": 99.74, "orderDate": "2023-05-03"}
+{"orderNumber": 10103, "customerNumber": 124, "employeeNumber": 1504, "productCode": "S12_1099", "productName": "1968 Ford Mustang", "quantityOrdered": 7, "priceEach": 59.62, "orderDate": "2023-05-04"}
+{"orderNumber": 10104, "customerNumber": 112, "employeeNumber": 1501, "productCode": "S10_1949", "productName": "1952 Alpine Renault 1300", "quantityOrdered": 7, "priceEach": 160.04, "orderDate": "2023-05-05"}
+{"orderNumber": 10105, "customerNumber": 119, "employeeNumber": 1501, "productCode": "S12_1099", "productName": "1968 Ford Mustang", "quantityOrdered": 6, "priceEach": 227.67, "orderDate": "2023-05-06"}
+{"orderNumber": 10106, "customerNumber": 103, "employeeNumber": 1504, "productCode": "S12_1099", "productName": "1968 Ford Mustang", "quantityOrdered": 9, "priceEach": 100.41, "orderDate": "2023-05-07"}
+{"orderNumber": 10107, "customerNumber": 112, "employeeNumber": 1504, "productCode": "S12_1099", "productName": "1968 Ford Mustang", "quantityOrdered": 8, "priceEach": 221.35, "orderDate": "2023-05-08"}
+{"orderNumber": 10108, "customerNumber": 119, "employeeNumber": 1504, "productCode": "S12_1099", "productName": "1968 Ford Mustang", "quantityOrdered": 3, "priceEach": 121.83, "orderDate": "2023-05-09"}
+{"orderNumber": 10109, "customerNumber": 112, "employeeNumber": 1501, "productCode": "S12_1099", "productName": "1968 Ford Mustang", "quantityOrdered": 9, "priceEach": 157.07, "orderDate": "2023-05-10"}
